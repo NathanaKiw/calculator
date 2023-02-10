@@ -2,7 +2,7 @@ const calculatorItens: Array<string> = [
   "CE",
   "C",
   "%",
-  "/",
+  "°/°",
   "7",
   "8",
   "9",
