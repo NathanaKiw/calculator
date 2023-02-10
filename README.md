@@ -1,5 +1,7 @@
 # Calculadora
 <h4>Desafio #boraCodar 05, utilizando as tecnologias que estou estudando no momento:</h4>
+
+<img align="center" height="300px" src="./github/calculadora.png"/>
 <ul>
 <li>Typescript</li>
 <li>Reactjs</li>
